@@ -1,0 +1,5 @@
+1. Proyecto Final_Clustering OMS Covid-19. docx         -> Informe Final 
+2. country_vaccinations_01.csv                          -> Base de datos inicial
+3. country_vaccinations_Clustering.csv                  -> Base de datos modificada para el clustering
+4. country_vaccinations_Clustering_Pre.csv              -> Base de datos con el preprocesamiento final
+5. datos-con-cluster.xlsx                               -> Resultados de los paises con su respectivo cluster
